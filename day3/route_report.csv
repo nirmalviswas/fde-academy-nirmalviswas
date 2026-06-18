@@ -1,0 +1,4 @@
+route,shipment_count,avg_delay_days,total_revenue,most_used_carrier
+Chennai -> Bangalore,2,2.5,269.25,FEDEX
+Mumbai -> Delhi,2,1.5,450.0,DHL
+Delhi -> Mumbai,1,0.0,410.0,DHL
