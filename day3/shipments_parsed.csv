@@ -1,0 +1,4 @@
+shipment_id,reference,status_code,status_desc,carrier_name,carrier_code,service_type,carrier_email,origin_city,origin_state,dest_city,dest_state,est_delivery,distance_km,event_count,latest_event_type,latest_event_loc,charge_base,charge_gst,charge_total,delay_days
+SH-001,PO-AFB-2024-441,IN_TRANSIT,Package in transit to destination hub,DHL Express,DHL,EXPRESS,ops@dhl.in,Mumbai,MH,Delhi,DL,2024-01-22,1450,3,ARRIVED,Delhi Hub,850.0,177.75,1155.25,0
+SH-002,PO-AFB-2024-442,DELAYED,Delayed due to customs clearance,FedEx India,FEDEX,STANDARD,support@fedex.in,Chennai,TN,Bangalore,KA,2024-01-21,346,2,HELD,Customs Delhi,320.0,66.24,434.24,3
+SH-003,,DELIVERED,,BlueDart,BLUEDART,ECONOMY,,Pune,,Hyderabad,TS,2024-01-19,559,2,DELIVERED,Hyderabad Depot,180.0,32.4,212.4,0

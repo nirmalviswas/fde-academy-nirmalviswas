@@ -1,0 +1,6 @@
+shipment_id,carrier,status,origin,destination,delay_days,cost_usd
+SH001,DHL,in_transit,Mumbai,Delhi,2,250.0
+SH002,FEDEX,delivered,Chennai,Bangalore,0,180.5
+SH006,DHL,delivered,Delhi,Mumbai,0,410.0
+SH009,DHL,delivered,Mumbai,Delhi,1,200.0
+SH010,FEDEX,in_transit,Chennai,Bangalore,5,88.75

@@ -1,0 +1,12 @@
+shipment_id,carrier,status,origin,destination,delay_days,cost_usd
+SH001,DHL ,	in_transit	, MUMBAI, DELHI, 2, 250.00
+SH002, fedex,DELIVERED,Chennai,Bangalore,0,180.50
+SH003,bluedart,	IN_TRANSIT,Pune,	Hyderabad ,abc,320.00
+,DHL,in_transit,Mumbai,Delhi,1,90.00
+SH005,FEDEX,unknown_status,Chennai,Mumbai,3,75.00
+SH006,dhl,delivered,DELHI,mumbai,0,410.00
+SH007,,in_transit,Bangalore,Chennai,2,
+SH008,BlueDart,IN_TRANSIT,Hyderabad,Pune,-1,155.00
+SH009,DHL,delivered,Mumbai,Delhi,1,200.00
+SH010,FedEx,in_transit,Chennai,Bangalore,5,88.75
+
